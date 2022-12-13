@@ -1,14 +1,5 @@
 ##README.TXT
 
-!!!NOTE TO GRADER!!!
---I was unable to implement tkinter module into my project
---as I needed a dynamicly updating window each frame
---tkinter was not cooperating, anytime I tried using a looping
---structure with the structure of a gui component, it would
---not work. I decided to cut my losses and implement everything
---that would've been included in the gui in a terminal based program
---it is not as aesthetically pleasing but it is the same code logic
-
 
 TO RUN:
 Ensure the latest installment of python 3
